@@ -1,0 +1,37 @@
+
+{
+  "code":0,
+  "msg":"ok",
+  "type": 3,
+  "time":"1551669475",
+  "data":[
+    {
+      "electricity":"0.09",
+      "date":"2019-02-26"
+    },
+    {
+      "electricity":"0.09",
+      "date":"2019-02-27"
+    },
+    {
+      "electricity":"0.09",
+      "date":"2019-02-28"
+    },
+    {
+      "electricity":"0.11",
+      "date":"2019-03-01"
+    },
+    {
+      "electricity":"0.00",
+      "date":"2019-03-02"
+    },
+    {
+      "electricity":"0.00",
+      "date":"2019-03-03"
+    },
+    {
+      "electricity":"0.00",
+      "date":"2019-03-04"
+    }
+  ]
+}

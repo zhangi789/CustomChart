@@ -1,0 +1,57 @@
+{
+  "code":0,
+  "msg":"ok",
+  "type": 2,
+  "time":"1551669255",
+  "data":[
+    {
+      "electricity":"250",
+      "date":"2018-04"
+    },
+    {
+      "electricity":"240",
+      "date":"2018-05"
+    },
+    {
+
+      "electricity":"281",
+      "date":"2018-06"
+    },
+    {
+      "electricity":"210",
+      "date":"2018-07"
+    },
+    {
+      "electricity":"213.4",
+      "date":"2018-08"
+    },
+    {
+      "electricity":"235",
+      "date":"2018-09"
+    },
+    {
+      "electricity":"350",
+      "date":"2018-10"
+    },
+    {
+      "electricity":"312",
+      "date":"2018-11"
+    },
+    {
+      "electricity":"184.68",
+      "date":"2018-12"
+    },
+    {
+      "electricity":"208.57",
+      "date":"2019-01"
+    },
+    {
+      "electricity":"81.14",
+      "date":"2019-02"
+    },
+    {
+      "electricity":"0.11",
+      "date":"2019-03"
+    }
+  ]
+}
